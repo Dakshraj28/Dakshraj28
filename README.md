@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dakshraj28
-- 👀 I’m interested in ...Ethical Hacking
-- 🌱 I’m currently learning ...Ethical hacking
+- 👀 I’m interested in ...Computer Science
+- 🌱 I’m currently learning ...Full stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ig: imdakshraj_28
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
